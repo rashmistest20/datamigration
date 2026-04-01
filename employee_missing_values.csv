@@ -1,0 +1,16 @@
+emp_id,emp_name,emp_sal,emp_city
+101,Keshav,52000.0,Pune
+102,Madhav,45000.0,Mumbai
+103,Suresh,,Nashik
+104,,80000.0,Chennai
+105,Ankit,90000.0,
+106,Aniket,75000.0,Kanpur
+107,Rohit,,Delhi
+108,,67000.0,Hyderabad
+109,Pooja,58000.0,
+110,Neha,,Pune
+111,Amit,62000.0,Mumbai
+112,Sunil,71000.0,
+113,,66000.0,Bangalore
+114,Ramesh,,Chennai
+115,Kiran,54000.0,
